@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "description": "my first node app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikhail Cruz Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

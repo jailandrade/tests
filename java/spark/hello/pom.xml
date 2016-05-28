@@ -1,0 +1,18 @@
+<?xml version="1.0" enconding="utf-8">
+<project
+    xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+    xsi:schemaLocation="http://maven.apache.org">
+    <modelVersion>4.0</modelVersion>
+    <groupId>com.jailandrade.hello</groupId>
+    <artifactId>hello</artifactId>
+    <version>0.0.1</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.sparkjava</groupId>
+            <artifactId>spark-core</artifactId>
+            <version>2.5</version>
+        </dependency>
+    </dependencies>
+</project>
