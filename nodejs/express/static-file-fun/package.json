@@ -1,0 +1,13 @@
+{
+  "name": "static-file-fun",
+  "author": "Jail",
+  "description": "static file fun",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}

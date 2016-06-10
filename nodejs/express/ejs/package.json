@@ -1,0 +1,11 @@
+{
+  "name": "express-ejs",
+  "author": "jail",
+  "description": "learning express with ejs",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.13.4"
+  }
+}
