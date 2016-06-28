@@ -1,17 +1,19 @@
 {
-  "name": "routing",
-  "version": "1.0.0",
-  "description": "routing examples",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "ejs": "^2.4.2",
-    "express": "^4.13.4",
-    "forecastio": "^1.0.1",
-    "zippity-do-dah": "0.0.2"
-  }
+	"name": "routing",
+	"version": "1.0.0",
+	"description": "routing examples",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ejs": "^2.4.2",
+		"express": "^4.13.4",
+		"forecastio": "^1.0.1",
+		"jade": "^1.11.0",
+		"pug": "^2.0.0-beta3",
+		"zippity-do-dah": "0.0.2"
+	}
 }
