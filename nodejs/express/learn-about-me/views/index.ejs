@@ -5,7 +5,7 @@
 <% users.forEach(function(user){  %>
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<a href="/users/<%= user.username%>"><% user.name() %></a>
+			<a href="/users/<%= user.username%>"><%= user.name() %></a>
 		</div>
 		<% if (user.bio) { %>
 			<div class="panel-body"><%= user.bio %></div>
