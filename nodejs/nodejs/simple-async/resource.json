@@ -1,0 +1,12 @@
+{
+	"data1": {
+		"name": "Nombre",
+		"number": 1,
+		"status": true
+	},
+	"data2": {
+		"name": "Nombre2",
+		"number": 5,
+		"status": false
+	}
+}
