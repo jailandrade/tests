@@ -1,0 +1,5 @@
+"Rule: ocaml dependencies ml (%=test )": "\206q\171!F\198:u\136L Fc(N\215"
+"Rule: ocaml: ml & cmi -> cmx & o (%=test )": "\172C\0017\146\221\174\143\011\133\000-\021L\128\182"
+"Resource: /Users/jailandrade/Desktop/.tests/ocaml/ocaml/docs/test.ml": "S\139\127\183\003\171mG\nZ\166:\156\189/\018"
+"Rule: ocaml: ml -> cmo & cmi (%=test )": "#[}\174,dJX\135\147'\213\rX\011\193"
+"Rule: ocaml: cmx* & o* -> native (%=test )": ")E\242A\168\019\147\027d\201k7ZXE\249"
